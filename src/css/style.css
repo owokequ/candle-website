@@ -64,6 +64,10 @@ a{
     position: relative;
 }
 
+.section1{
+    margin-bottom: 50px;
+}
+
 .section1_bacground{
     width: 100%;
 }
@@ -105,3 +109,283 @@ a{
     color: #6b5841;
 }
 
+.line{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.text_candle{
+    font-family: "Jura", sans-serif;
+    color: #6b5841;
+    margin: 0 auto;
+    width: 1110px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 90px;
+}
+
+.section3_background{
+    position: relative;
+}
+
+.section3_img_background{
+    width: 1440px;
+    height: 641px;
+    filter: blur(15px);
+    opacity: 0.75;
+}
+
+.section3_background_text1{
+    position: absolute;
+    top: 0%;
+    left:45%;
+    font-size: 64px;
+}
+
+.section3_background_text1 p{
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.section3_background_text2{
+    position: absolute;
+    font-size: 24px;
+    width: 550px;
+    top: 20%;
+    left: 10%;
+}
+
+.section3_background_text2 p{
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.section3_background_text3{
+    position: absolute;
+    font-size: 24px;
+    width: 550px;
+    top: 40%;
+    right: 10%;
+}
+
+.section3_background_text3 p{
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.section3_background_text3 li{
+    margin: 0;
+    padding: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.section3_background_text4 p{
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.section3_background_text4{
+    position: absolute;
+    width: 550px;
+    font-size: 24px;
+    left: 10%;
+    bottom: 0%;
+}
+
+.section3{
+    margin-bottom: 80px;
+}
+
+.section4{
+    position: relative;
+}
+
+.line2{
+    position: absolute;
+    margin-top: 3%;
+    left: 10%;
+    width: 400px;
+    height: 1px;
+}
+
+.section4{
+    margin-bottom: 100px;
+}
+
+.section4_line{
+    height: 70px;
+    margin-bottom: 120px;
+}
+
+.section4_text{
+    position: absolute;
+    font-size: 64px;
+    top: 0%;
+    left: 42%;
+    
+}
+
+.section4_text p{
+    padding: 0;
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.line3{
+    margin-top: 3%;
+    position: absolute;
+    right: 10%;
+    width: 400px;
+    height: 1px;
+}
+
+.section4_img{
+    text-align: center;
+    margin: 0;
+}
+
+.section4_txt{
+    position: relative;
+}
+
+.section4_txt_1{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    left: 200px;
+    top: 0;
+}
+
+.section4_txt_2{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    left:610px;
+    top: 0;
+}
+
+.section4_txt_3{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    left: 1020px;
+    top: 0;
+}
+
+
+.section4_txt p{
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.section4_img img{
+    width: 322px;
+    height: 322px;
+    border-radius: 30px;
+    margin-right: 90px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+.section4_img img:last-child{
+    margin-right: 0;
+}
+
+.section5{
+    position: relative;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.section5_text{
+    position: absolute;
+    font-size: 64px;
+    top: 0%;
+    left: 41%;
+    
+}
+
+.section5_text p{
+    padding: 0;
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+.line4{
+    position: absolute;
+    margin-top: 3%;
+    left: 10%;
+    width: 400px;
+    height: 1px;
+}
+
+.line5{
+    margin-top: 3%;
+    position: absolute;
+    right: 10%;
+    width: 400px;
+    height: 1px;
+}
+
+.img_icon{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.img_icon img{
+    margin-right: 300px;
+}
+
+.img_icon img:last-child{
+    margin-right: 0;
+}
+
+.section6{
+    position: relative;
+}
+
+.text_under_icon p{
+    padding: 0;
+    margin: 0;
+    color: #6b5841;
+    font-family: "Jura", sans-serif;
+}
+
+.text_under_icon_1{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    left: 246px;
+    top: 70px;
+}
+
+.text_under_icon_2{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    left: 605px;
+    top: 70px;
+}
+
+.text_under_icon_3{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    left: 975px;
+    top: 70px;
+}
